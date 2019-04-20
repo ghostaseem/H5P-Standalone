@@ -1,4 +1,4 @@
-# h5p-standalone
+# Make H5P Standalone
 Display H5P content with plain old HTML
 
 ## Usage
